@@ -6,7 +6,7 @@ The code in this repository was used to generate the results of a benchmark of g
 
 To run / see the code of our proposed method go to the trackers folder and see the folders OURS and OURS_CNN
 
-[[https://github.com/Magnesiam/CFT_OTB/master/figs/overall/PrecisionSRE_all.eps|alt=octocat]]
+![alt tag](http://imageshack.com/a/img921/4269/mLQFyd.png)
 
 # Requirements
 
