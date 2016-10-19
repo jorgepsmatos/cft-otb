@@ -6,7 +6,7 @@ The code in this repository was used to generate the results of a benchmark of g
 
 To run / see the code of our proposed method go to the trackers folder and see the folders OURS and OURS_CNN
 
-![alt tag](http://imagizer.imageshack.us/v2/640x480q90/921/mLQFyd.png) ![alt tag](http://imagizer.imageshack.us/v2/640x480q90/921/mLQFyd.png) 
+![alt tag](http://imagizer.imageshack.us/v2/320x240q90/921/mLQFyd.png) ![alt tag](http://imagizer.imageshack.us/v2/320x240q90/921/mLQFyd.png) 
 
 # Requirements
 
