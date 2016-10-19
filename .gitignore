@@ -1,0 +1,10 @@
+# NN Model
+
+trackers/CF2/model/imagenet-vgg-verydeep-19.mat
+tmp/
+data_seq/gobi1
+data_seq/gobi2
+data_seq/jaieo
+data_seq/tase1
+
+*.*~
