@@ -6,7 +6,9 @@ The code in this repository was used to generate the results of a benchmark of g
 
 To run / see the code of our proposed method go to the trackers folder and see the folders OURS and OURS_CNN
 
-<img src="http://imageshack.com/a/img921/4269/mLQFyd.png" width="425"/> <img src="http://imageshack.com/a/img921/4269/mLQFyd.png" width="425"/> 
+<img src="http://imageshack.com/a/img924/648/scQuoA.png" width="425"/> <img src="http://imageshack.com/a/img921/4269/mLQFyd.png" width="425"/> 
+
+<img src="http://imageshack.com/a/img924/6910/mcFCVi.png" width="425"/> <img src="http://imageshack.com/a/img922/6995/s2erO4.png" width="425"/> 
 
 # Requirements
 
