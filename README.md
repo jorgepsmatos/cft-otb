@@ -29,7 +29,7 @@ Airborne Maritime Dataset.
 
 # HOW-TO
 
-Our method:
+**Our method:**
 
   0. Setup Python 2.7 with Numpy
   0. Install OpenCV 3.1 [(Tutorial)](http://www.pyimagesearch.com/2015/06/22/install-opencv-3-0-and-python-2-7-on-ubuntu/)
@@ -39,11 +39,12 @@ Our method:
   0. Download the Maritime Dataset from 
   0. For OURS_HOG you might need to recompile the HOG extraction code. To do this edit the setup.py file to point to your dlib folder and then run in the terminal: python setup.py
   
-Other algorithms:
+**Other algorithms:**
 
 Usually the other algorithms should run if the required libraries are correctly installed. Either way each tracker has a readme file in its folder.
 
 The CF2 [6] tracker requires that you download the ConvNet model and put it into '/trackers/CF2/model/' 
+https://uofi.box.com/shared/static/kxzjhbagd6ih1rf7mjyoxn2hy70hltpl.mat
 
 
 If you have any questions: jorgep.s.matos@gmail.com
