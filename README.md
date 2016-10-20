@@ -1,10 +1,10 @@
 
 
-# Robust Tracking of Vessels in Oceanographic Airborne Images [1]
+# Robust Tracking of Vessels in Oceanographic Airborne Images 
 
-The code in this repository was used to generate the results of a benchmark of general purpose tracking algorithms on the maritime setting using airborne imagery. We used the OTB framework [2]
+The code in this repository was used to generate the results of a benchmark of general purpose tracking algorithms on the maritime setting using airborne imagery. We used the OTB framework [1].
 
-We also present a new approach which is based on KCF [3] tracker and blob analysis. The evaluations are done either with CNN [4] or HOG [5] features.
+We also present a new approach [2] which is based on KCF [3] tracker and blob analysis. The evaluations are done either with CNN [4] or HOG [5] features.
 
 # Results
 
@@ -50,10 +50,10 @@ If you have any questions: jorgep.s.matos@gmail.com
 
 # References
 
-[1] J. Matos, A. Bernardino, and R. Ribeiro, “Robust tracking of vessels in oceanographic airborne
-images,” in OCEANS’16 MTS/IEEE Monterey. MTS/IEEE.
+[1] Wu, Yi, Jongwoo Lim, and Ming-Hsuan Yang. "Online object tracking: A benchmark." Proceedings of the IEEE conference on computer vision and pattern recognition. 2013.
 
-[2] Wu, Yi, Jongwoo Lim, and Ming-Hsuan Yang. "Online object tracking: A benchmark." Proceedings of the IEEE conference on computer vision and pattern recognition. 2013.
+[2] J. Matos, A. Bernardino, and R. Ribeiro, “Robust tracking of vessels in oceanographic airborne
+images,” in OCEANS’16 MTS/IEEE Monterey. MTS/IEEE.
 
 [3] Henriques, João F., et al. "High-speed tracking with kernelized correlation filters." IEEE Transactions on Pattern Analysis and Machine Intelligence 37.3 (2015): 583-596.
 
