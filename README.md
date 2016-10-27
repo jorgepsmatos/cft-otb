@@ -36,7 +36,7 @@ Airborne Maritime Dataset.
   0. Install Caffe with CUDA [(Tutorial)](http://caffe.berkeleyvision.org/installation.html)
   0. Setup CAFFE_ROOT environment variable to the folder that contains the Caffe framework and models.
   0. Download VGG-Net [4] from https://gist.github.com/ksimonyan/3785162f95cd2d5fee77 and put it into the '.../caffe/model/' folder.
-  0. Download the Maritime Dataset from 
+  0. Download the Maritime Dataset from https://www.dropbox.com/s/a737bzk7uktplu4/data_seq.zip?dl=0
   0. For OURS_HOG you might need to recompile the HOG extraction code. To do this edit the setup.py file to point to your dlib folder and then run in the terminal: python setup.py
   
 **Other algorithms:**
